@@ -1,0 +1,7 @@
+{
+  "java": "C:\\Users\\KHC1SZH\\chenkai\\jdk-11.0.15.1\\bin\\java",
+
+  "doc": "http://localhost:8084/api/v3/api-docs",
+
+  "output": "C:\\Users\\KHC1SZH\\chenkai\\Projects\\-openapi-gen-starter-\\generated-api"
+}

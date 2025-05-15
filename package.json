@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "openapi-generator": "node generate-api.js",
+    "download-template": "node download-template.js",
+    "help": "node get-help.js"
+  }
+}
